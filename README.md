@@ -3,7 +3,7 @@ The client (React app) and the server (Node server) must be run on different por
 
 To get the repository onto your machine, you'll want to clone it with the following bash command:
 ```
-git clone https://github.gatech.edu/pdodda6/wordle.git
+git clone git@github.com:doddapranit/wordle.git
 ```
 
 Next, you'll want to install any dependencies in both the client and server applications. To do so, you'll want to run the following:
